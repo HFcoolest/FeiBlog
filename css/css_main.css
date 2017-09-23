@@ -6,6 +6,7 @@ body{
 	padding: 0;
 	display: block;
 	box-sizing: border-box;
+	background: url(https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/1/005/08f/1af/1396697.jpg) no-repeat center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
