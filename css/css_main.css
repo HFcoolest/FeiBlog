@@ -6,7 +6,6 @@ body{
 	padding: 0;
 	display: block;
 	box-sizing: border-box;
-	background: url(../images/face.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -85,7 +84,7 @@ main article header time{
 	line-height: 1.6;
 	font-size: 12px;
 }
-/*------------------------ منو کناری ------------*/
+
 aside{
 	float: left;
 	width: 259px;
